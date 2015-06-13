@@ -1,7 +1,7 @@
 package nguyenhoang.duy.phuong.helicoptergame;
 
 /**
- * Created by Phuong on 09/06/2015.
+ * Created by Phuong on 13/06/2015.
  */
 import android.content.Context;
 import android.graphics.Bitmap;
